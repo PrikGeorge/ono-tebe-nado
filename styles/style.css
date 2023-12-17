@@ -114,7 +114,7 @@
 }
 
 .aligned-text_center {
-    text-align:center;
+    text-align: center;
     padding-right: 104px;
 }
 
@@ -263,7 +263,7 @@
     gap: 68px;
 }
 
-.logo__column{
+.logo__column {
     display: inline-flex;
     height: 237px;
     padding: 0px 45px 0px 70px;
